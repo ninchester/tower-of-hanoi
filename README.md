@@ -1,11 +1,14 @@
 # Towers of Hanoi
 
+## Overview
+This is implementation of [Towers of Hanoi puzzle game](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+
 ## How to run
 Open `index.html` in a browser.
 
 ## Screens
 
-### Init Page
+### Initial Page
 <img src="docs/init_page.png" width=300/> 
 
 ### Invalid move
